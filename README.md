@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JackyBai0423
 - 👀 I’m interested in vedio games, computer science, and table tennis
-- 🌱 I’m currently learning CS 540 Artificial intelligence, CS 559 Computer Graphic, CS 354 Computer System
+- 🌱 I’m currently persuing B.S. degree in Computer Science and Data Science, and certificate in game design.
 - 💞️ I’m looking to collaborate on any internship or projects(research)
 - 📫 How to reach me bai59@wisc.edu
 
